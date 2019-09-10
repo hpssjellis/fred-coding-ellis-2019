@@ -3,7 +3,7 @@ coding class website
 
 
 
-https://hpssjellis.github.io/fred-coding-ellis-2019/
+https://hpssjellis.github.io/fred-coding-ellis-2019/public/index.html
 
 
 
