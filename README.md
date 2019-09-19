@@ -49,7 +49,7 @@ Aric
 Bowen
 
 
-Anthony
+Anthony   https://anthonykalos.github.io/anthony-code-2019/public/
 
 
 Sagar   https://sagar-sudo.github.io/Sagar-coding-ellis-2019/public/
@@ -75,7 +75,7 @@ Natasha   https://roadrunnertasha.github.io/natasha-coding-ellis-2019/public/ind
 Logan r   https://logangamedev2019.github.io/logan-coding-ellis-2019/public/
 
 
-logan sl
+logan sl  
 
 
 logan so
@@ -87,8 +87,10 @@ st louis  https://awnsber.github.io/andreas-coding-ellis2019/public/index.html
 Alexis  https://phantomfs.github.io/Alexis-Coding-Ellis-2019/index.html
 
 
-Kai
+Kai   https://kai-tes.github.io/Kai-coding-ellis-2019/public/
 
+
+Caleb  
 
 
 
