@@ -25,7 +25,7 @@ Then enter
 Links for marking
 
 
-nab 
+nabraj  https://obamacarez.github.io/nabhraj-coding-ellis-2019/public/
 
 justin https://vxsxws.github.io/justin-coding-ellis-2019/public/index.html
 
@@ -43,10 +43,10 @@ cameron mark at computer
 shane https://scaredycatr.github.io/shane-coding-ellis-2019/public/
 
 
-Aric
+Aric  https://aric686027.github.io/aric-coding-2019-ellis/public/ m
 
 
-Bowen
+Bowen   https://magikarpix.github.io/Bowen-coding-ellis-2019/public/
 
 
 Anthony   https://anthonykalos.github.io/anthony-code-2019/public/
