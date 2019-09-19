@@ -40,6 +40,10 @@ fisher  https://mariofish.github.io/fischer-coding-2019/public/index.html
 
 cameron mark at computer
 
+Navi 
+
+Ray 
+
 shane https://scaredycatr.github.io/shane-coding-ellis-2019/public/
 
 
@@ -76,6 +80,9 @@ Logan r   https://logangamedev2019.github.io/logan-coding-ellis-2019/public/
 
 
 logan sl  https://lobglon.github.io/LoganMS-coding-ellis-2019/public/ 
+
+
+Owen  https://slowen948.github.io/hello-world/public/
 
 
 logan so
