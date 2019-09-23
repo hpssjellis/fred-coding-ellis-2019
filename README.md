@@ -85,7 +85,7 @@ logan sl  https://lobglon.github.io/LoganMS-coding-ellis-2019/public/
 Owen  https://slowen948.github.io/hello-world/public/
 
 
-logan so
+logan so   https://patient-665.github.io/logans-coding-ellis-2019/public/
 
 
 st louis  https://awnsber.github.io/andreas-coding-ellis2019/public/index.html
