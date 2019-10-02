@@ -7,6 +7,20 @@ https://hpssjellis.github.io/fred-coding-ellis-2019/public/index.html
 
 
 
+TO LOAD THE GITPOD 
+
+https://gitpod.io/#github.com/hpssjellis/fred-coding-ellis-2019
+
+In gitpod type this command.
+
+```
+apachectl start
+
+```
+
+
+
+
 
 
 Load a gitpod.io of this site
