@@ -44,7 +44,7 @@ nabraj  https://obamacarez.github.io/nabhraj-coding-ellis-2019/public/
 justin https://vxsxws.github.io/justin-coding-ellis-2019/public/index.html
 
 
-ethan https://gamedev2019.github.io/ethan-coding-ellis-2019/
+ethan https://gamedev2019.github.io/ethan-coding-ellis-2019/public/
 
 fisher  https://mariofish.github.io/fischer-coding-2019/public/index.html
 
