@@ -86,13 +86,13 @@ Jonathan   https://johnathan123456.github.io/johnathan-coding-ellis-2019/public/
 Adam   https://gamedevtypicalnineyearold.github.io/Coding-Adam-2019/public/
 
 
-Taran https://taranstone.github.io/taran-coding-ellis-2019/public/
-
 Natasha   https://roadrunnertasha.github.io/natasha-coding-ellis-2019/public/index.html
 
 
 Logan r   https://logangamedev2019.github.io/logan-coding-ellis-2019/public/
 
+
+Taran https://taranstone.github.io/taran-coding-ellis-2019/public/
 
 logan sl  https://lobglon.github.io/LoganMS-coding-ellis-2019/public/ 
 
