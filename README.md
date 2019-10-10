@@ -116,3 +116,50 @@ Caleb
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+university website
+
+searching on "women and rugby and ice hockey" american universities
+
+https://www.google.com/search?q=complex+google+search&rlz=1C1GCEA_enCA864CA864&oq=complex+google+search&aqs=chrome..69i57j0.5382j0j2&sourceid=chrome&ie=UTF-8&safe=active&ssui=on
+
+
+
+https://www.american.edu/recfit/club-sports/
+
+
+
+https://lindenwoodlions.com/index.aspx?path=whockey
+
+https://lindenwoodlions.com/index.aspx?path=wrugby
+
+
+
+
+
+
+https://www.liuathletics.com/index.aspx?path=wrugby
+
+https://www.liuathletics.com/index.aspx?path=whockey
+
+
+
+https://www2.acadiau.ca/student-life/residence-campus-life/club-sports.html
+
+
+
+
