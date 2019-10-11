@@ -163,3 +163,10 @@ https://www2.acadiau.ca/student-life/residence-campus-life/club-sports.html
 
 
 https://gothunderbirds.ca/    (hockey, 7's 15's)
+
+
+
+https://en.wikipedia.org/wiki/Yale_Bulldogs    ice hockey varsity, rugby club
+
+
+https://en.wikipedia.org/wiki/Harvard_Crimson   both hockey and rugby
