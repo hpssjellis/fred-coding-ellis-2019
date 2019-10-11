@@ -177,3 +177,7 @@ https://brownbears.com/index.aspx?path=wrugby   brown both varsity rugby and ice
 https://secure.assistantcoach.net/colleges/athlete_webform.asp?oid=115&sid=2448     brown ice hockey athlet info request form
 
 
+
+You need to be certified by the NCAA Eligibility Center to compete in NCAA Division I. Eligibility Center Link: https://web3.ncaa.org/ecwr3/register/CERTIFICATION
+
+
