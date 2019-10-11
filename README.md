@@ -170,3 +170,6 @@ https://en.wikipedia.org/wiki/Yale_Bulldogs    ice hockey varsity, rugby club
 
 
 https://en.wikipedia.org/wiki/Harvard_Crimson   both hockey and rugby
+
+
+https://brownbears.com/index.aspx?path=wrugby   brown both varsity rugby and ice hockey for women
