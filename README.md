@@ -173,3 +173,7 @@ https://en.wikipedia.org/wiki/Harvard_Crimson   both hockey and rugby
 
 
 https://brownbears.com/index.aspx?path=wrugby   brown both varsity rugby and ice hockey for women
+
+https://secure.assistantcoach.net/colleges/athlete_webform.asp?oid=115&sid=2448     brown ice hockey athlet info request form
+
+
