@@ -135,7 +135,7 @@ university website
 
 searching on "women and rugby and ice hockey" american universities
 
-https://www.google.com/search?q=complex+google+search&rlz=1C1GCEA_enCA864CA864&oq=complex+google+search&aqs=chrome..69i57j0.5382j0j2&sourceid=chrome&ie=UTF-8&safe=active&ssui=on
+https://www.google.com/search?safe=active&rlz=1C1GCEA_enCA864CA864&sxsrf=ACYBGNT_5xUPgxN0rivQE6daIruBEiqJTw%3A1570775091890&ei=MyCgXfz7Nfas0PEP0MC08AU&q=%22women+and+rugby+and+ice+hockey%22+american+universities&oq=%22women+and+rugby+and+ice+hockey%22+american+universities&gs_l=psy-ab.3...13894.13894..14352...0.1..0.79.79.1......0....2j1..gws-wiz.......0i71.mKmuYqnL91Y&ved=0ahUKEwi84f6ayZPlAhV2FjQIHVAgDV4Q4dUDCAs&uact=5
 
 
 
