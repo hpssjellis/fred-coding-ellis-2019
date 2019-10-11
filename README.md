@@ -180,4 +180,27 @@ https://secure.assistantcoach.net/colleges/athlete_webform.asp?oid=115&sid=2448 
 
 You need to be certified by the NCAA Eligibility Center to compete in NCAA Division I. Eligibility Center Link: https://web3.ncaa.org/ecwr3/register/CERTIFICATION
 
+https://affordableschools.net/25-best-american-colleges-student-athletes/
 
+
+https://www.prepscholar.com/sat/s/colleges/Lindenwood-University-admission-requirements  SAT 1080
+
+
+good read about lindenwood
+
+https://www.rugbytoday.com/columns/cliff-notes-varsity-schmarsity-just-play
+
+https://www.prepscholar.com/sat/s/colleges/Central-Washington-University-admission-requirements  SAT 1070
+
+has rugby
+
+
+
+rugby Davenport, Lindenwood, Lindenwood-Belleville, American International College, Notre Dame College, Wheeling Jesuit, Queens, Bethel, Iowa Central Community College
+
+
+
+
+
+
+Yale expects all sta scores so just send to them   https://blog.prepscholar.com/should-you-send-the-4-free-sat-score-reports
