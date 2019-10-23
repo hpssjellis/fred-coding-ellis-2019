@@ -62,7 +62,7 @@ Ray https://thefkeyisgone.github.io/Game-Dev-2020.1-Ray/
 shane https://scaredycatr.github.io/shane-coding-ellis-2019/public/
 
 
-Aric  https://aric686027.github.io/aric-coding-2019-ellis/public/ m
+Aric  https://aric686027.github.io/aric-coding-2019-ellis/public/ 
 
 
 Bowen   https://magikarpix.github.io/Bowen-coding-ellis-2019/public/
