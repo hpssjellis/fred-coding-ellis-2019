@@ -55,9 +55,9 @@ Jacob   https://jacobwithac.github.io/jacob-coding-ellis-2019/public/index.html
 
 cameron mark at computer
 
-Navi 
 
-Ray 
+
+Ray https://thefkeyisgone.github.io/Game-Dev-2020.1-Ray/
 
 shane https://scaredycatr.github.io/shane-coding-ellis-2019/public/
 
