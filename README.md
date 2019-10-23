@@ -112,7 +112,9 @@ Alexis  https://phantomfs.github.io/Alexis-Coding-Ellis-2019/index.html
 Kai   https://kai-tes.github.io/Kai-coding-ellis-2019/public/
 
 
-Caleb  
+Caleb  https://508829.github.io/coding-2019-with-ellis/public/index.html
+
+Chase  https://chasetonks.github.io/Chasetonks/public/index.html
 
 
 
