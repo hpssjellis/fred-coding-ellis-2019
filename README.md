@@ -130,6 +130,19 @@ Chase  https://chasetonks.github.io/Chasetonks/public/index.html
 
 
 
+.
+
+
+
+.
+
+
+
+.
+
+
+
+Google university name   prepscholar   to see sat scores
 
 
 
