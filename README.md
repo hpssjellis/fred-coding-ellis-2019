@@ -1,3 +1,9 @@
+
+<title>Hello World</title>
+<meta name="description" content="The quick brown fox jumped over the lazy dog.">
+<meta name="author" content="John Smith">
+
+
 # fred-coding-ellis-2019
 coding class website
 
