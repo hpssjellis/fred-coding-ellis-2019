@@ -1,12 +1,12 @@
-<meta name=viewport content="width=device-width, initial-scale=1">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="description" content="The quick brown fox jumped over the lazy dog.">
-<meta name="keywords" content="keyword 1, keyword 2, keyword 3"/>
+
 
 
 # fred-coding-ellis-2019
 coding class website
 
+
+
+https://github.com/hpssjellis/testtesttest/blob/master/README.md#this-cool 
 
 
 https://hpssjellis.github.io/fred-coding-ellis-2019/public/index.html
