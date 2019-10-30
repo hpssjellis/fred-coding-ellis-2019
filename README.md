@@ -1,7 +1,7 @@
-
-<title>Hello World</title>
+<meta name=viewport content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="description" content="The quick brown fox jumped over the lazy dog.">
-<meta name="author" content="John Smith">
+<meta name="keywords" content="keyword 1, keyword 2, keyword 3"/>
 
 
 # fred-coding-ellis-2019
